@@ -1,0 +1,16 @@
+release/main.o
+release/maindialog.o
+release/zscene.o
+release/zobject.o
+release/zplant.o
+release/zzombie.o
+release/zflyingobject.o
+release/zanim.o
+release/zbonus.o
+release/zcard.o
+release/qrc_pvz.o
+release/moc_maindialog.o
+release/moc_zscene.o
+release/moc_zobject.o
+release/moc_zplant.o
+release/moc_zzombie.o

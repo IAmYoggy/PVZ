@@ -1,0 +1,16 @@
+debug/main.o
+debug/maindialog.o
+debug/zscene.o
+debug/zobject.o
+debug/zplant.o
+debug/zzombie.o
+debug/zflyingobject.o
+debug/zanim.o
+debug/zbonus.o
+debug/zcard.o
+debug/qrc_pvz.o
+debug/moc_maindialog.o
+debug/moc_zscene.o
+debug/moc_zobject.o
+debug/moc_zplant.o
+debug/moc_zzombie.o
